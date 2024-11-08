@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    justify-content: space-around;
+    background: red;
+    height: 10vh;
+}
+
+.logo{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
