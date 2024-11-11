@@ -58,6 +58,14 @@
     padding-right: 1500px;
 }
 
+.trem {
+  margin: 0 10px;
+}
+
 .texto-ciclo{
-    text-align: center;
+  text-align: center;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 1500px;
+    padding-top: 50px;
 }
