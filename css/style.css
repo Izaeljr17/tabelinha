@@ -52,7 +52,8 @@
   box-sizing: border-box;
 }
 
-/* Estilo do corpo */
+/* Estilo do corpo */   A tabela de muco cervical é uma ferramenta utilizada no método de observação de fertilidade,
+                    também c
 body {
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
@@ -106,6 +107,12 @@ main {
   font-size: 1.8em; /* Subtítulo menor */
 }
 
+.texto{
+  font-style: italic;
+  font-size: 20px;
+  padding-top: 10px;
+}
+
 /* Parágrafos e listas */
 .texto p, .texto-ciclo p {
   margin-bottom: 15px; /* Espaçamento entre parágrafos */
@@ -146,7 +153,7 @@ footer {
 footer {
   background-color: #c8102e; /* Cor de fundo escura */
   color: white; /* Texto branco */
-  padding: 75px 0; /* Espaçamento interno */
+  padding: 120px 0; /* Espaçamento interno */
 }
 
 .footer-content {
