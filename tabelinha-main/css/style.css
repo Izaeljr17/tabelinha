@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+  
+  a:hover {
+    opacity: 0.7;
+  }
+  
+  .logo {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    background: #c8102e;;
+    height: 10vh;
+  }
+  
+  
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-list li {
+    letter-spacing: 3px;
+    margin-left: 32px;
+  }
+  
+
+
+  /* style.css */
+
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilo do corpo */   A tabela de muco cervical é uma ferramenta utilizada no método de observação de fertilidade,
+                    também c
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4; /* Cor de fundo clara */
+  color: #333; /* Texto escuro para melhor legibilidade */
+}
+
+/* Estilo do cabeçalho */
+header {
+  background-color: #c8102e; /* Vermelho G1 */
+  color: white;
+  padding: 15px 0;
+}
+
+header .logo {
+  font-size: 24px;
+  text-align: center;
+  display: block;
+}
+
+/* Navegação */
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-list {
+  list-style-type: none;
+}
+
+.nav-list li {
+  margin-right: 20px; /* Espaçamento entre os itens */
+}
+
+.nav-list a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Estilo do conteúdo principal */
+main {
+  padding: 20px;
+}
+
+/* Estilo dos textos principais */
+.texto-muco h1 {
+  font-size: 2.5em; /* Título maior */
+}
+
+.texto-muco h2 {
+  font-size: 1.8em; /* Subtítulo menor */
+}
+
+.texto{
+  font-style: italic;
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+/* Parágrafos e listas */
+.texto p, .texto-ciclo p {
+  margin-bottom: 15px; /* Espaçamento entre parágrafos */
+}
+
+/* Alinhamento com a tabela */
+.texto-ciclo {
+  margin-bottom: 20px; /* Espaço abaixo da seção de texto */
+}
+
+  .tabelinha{
+    text-align: center;
+    font-size: 20px;
+    height: 2px;
+  }
+
+/* Tabela de características do muco */
+table {
+  width: 100%;
+  border-collapse: collapse; /* Remove espaços entre bordas */
+  margin-top: 20px; /* Espaço acima da tabela */
+}
+
+th, td {
+  border: 1px solid #ddd; /* Bordas da tabela */
+  padding: 12px; /* Espaçamento interno das células */
+}
+
+th {
+  background-color: #c8102e; /* Cor de fundo dos cabeçalhos */
+  color: white; /* Texto branco nos cabeçalhos */
+}
+
+td {
+  background-color: #fff; /* Cor de fundo das células */
+}
+
+/* Estilo do rodapé */
+footer {
+  text-align: center;
+  padding: 10px 0;
+}
+/* Estilo do rodapé */
+footer {
+  background-color: #c8102e; /* Cor de fundo escura */
+  color: white; /* Texto branco */
+  padding: 75px 0; /* Espaçamento interno */
+}
+
+.footer-content {
+  text-align: center; /* Centraliza o texto */
+}
+
+.footer-links {
+  list-style-type: none; /* Remove marcadores da lista */
+  margin-top: 10px; /* Espaço acima da lista */
+}
+
+.footer-links li {
+  display: inline; /* Itens lado a lado */
+  margin-right: 15px; /* Espaço entre os links */
+}
+
+.footer-links a {
+  color: white; /* Cor dos links */
+  text-decoration: none; /* Remove sublinhado */
+}
+
+.footer-links a:hover {
+  opacity: 0.7; /* Efeito hover nos links */
+}
